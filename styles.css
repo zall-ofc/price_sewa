@@ -1,4 +1,4 @@
-/* Reset dasar */
+HP/* Reset dasar */
 * {
   margin: 0;
   padding: 0;
@@ -86,7 +86,7 @@ h1, h2, h3 {
     border-radius: 4px;
     box-shadow: #fff 4px 4px 0 0,#000 4px 4px 0 1px;
     box-sizing: border-box;
-    color: #333;
+    color: white;
     cursor: pointer;
     display: inline-block;
     font-family: ITCAvantGardeStd-Bk,Arial,sans-serif;
