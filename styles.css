@@ -1,4 +1,4 @@
-HP/* Reset dasar */
+/* Reset dasar */
 * {
   margin: 0;
   padding: 0;
@@ -80,7 +80,7 @@ h1, h2, h3 {
 /* Tombol CTA */
 .cta-button {
     appearance: button;
-    background-color: linear-gradient(to right, #800080, #0000ff);
+    background: linear-gradient(to right, #800080, #0000ff);
     background-image: none;
     border: 1px solid #000;
     border-radius: 4px;
