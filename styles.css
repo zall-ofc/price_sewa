@@ -9,9 +9,15 @@
 }
 
 body {
-    line-height: 1.6;
-    color: #333;
-    background-color: #f4f4f4;
+     background: linear-gradient(to right, #800080, #0000ff);
+     height: 100vh;
+     margin: 0;
+     padding: 0;
+     color: white;
+     font-family: Arial, sans-serif;
+     display: flex;
+     align-items: center;
+     justify-content: center;
 }
 
 nav {
